@@ -71,7 +71,7 @@ this is the output for ctrl+u which shows all the html contents without hiding a
 
 ![natas 1](images/natas%201.png)
 
-In order to access the next level we need to use the username as nata1 and the flag we just got in the previus level 
+In order to access the next level we need to use the username as nata1 and the flag we just got in the previous level 
 
 ![natas 1(1)](images/natas%201(1).png)
 
@@ -118,15 +118,19 @@ the page shows no leaked contents and even the google cant find it ,and we cant 
 
 robots.txt file is a simple text file placed in a website's root directory that tells search engine crawlers and other automated bots which pages or files they are allowed or not allowed to access.
 
+
+
 ![natas 3(1)](images/natas%203(1).png)
 
 as a result of editing the url to /robots.txt at the end we can find that it have some secret path exposed 
 
 ![natas 3(2)](images/natas%203(2).png)
 
-when we use that path we can find some apache servers file contents are exposed by checking it we can find the flag 
+when we use that /s3cr3t/ path we can find some apache servers file contents are exposed  
 
 ![natas 3(3)](images/natas%203(3).png)
+
+by checking the users.txt  we can find the flag
 
 ---
 
