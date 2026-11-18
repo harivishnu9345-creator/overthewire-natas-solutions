@@ -30,6 +30,7 @@ Welcome to my comprehensive, step-by-step learning log and writeup repository fo
 - **[Level 8 (Natas 8 -> 9)](#level-8)**
 - **[Level 9 (Natas 9 -> 10)](#level-9)**
 - **[Level 10 (Natas 10 -> 11)](#level-10)**
+- **[Level 11 (Natas 11 -> 12)](#level-11)**
 
 ## 🚩 Master Flag List (Levels 0 - 10)
 
@@ -46,6 +47,7 @@ For quick reference, here are the passwords extracted from each level:
 * **Level 8:** `ugXL95KQmUAJJj6bMezOlBNDyI9Imwkc` *(Found at Level 7)*
 * **Level 9:** `UdxmI27dTaXmnd1rxKQTfws6jihTdcQ9` *(Found at Level 8)*
 * **Level 10:** `EgjlkzB6E8LJyf2Obt4q7q4ewt5ZWSNv` *(Found at Level 9)*
+* **Level 11:** `VUMQDmuITOEHzhviLE5V0VG9cPMQkyxd` *(Found at Level 10)*
 
 ---
 
@@ -255,4 +257,41 @@ Writeups for the level 9 to 10
 <a id="level-10"></a>
 ## Level 10 -> Level 11
 
-**Password / Flag:** `EgjlkzB6E8LJyf2Obt4q7q4ewt5ZWSNv` *(cat /etc/natas_passwd/natas10)*
+![natas10](images/natas10.png)
+
+Writeups for the level 10 to 11
+
+![natas10(1)](images/natas10(1).png)
+
+Writeups for the level 10 to 11
+
+![natas10(2)](images/natas10(2).png)
+
+Writeups for the level 10 to 11
+
+![natas10(3)](images/natas10(3).png)
+
+Writeups for the level 10 to 11
+
+![natas10(4)](images/natas10(4).png)
+
+Writeups for the level 10 to 11
+
+![natas10(5)](images/natas10(5).png)
+
+---
+
+<a id="level-11"></a>
+## Level 11 -> Level 12
+
+![natas11](images/natas11.png)
+
+Writeups for the level 11 to 12
+
+![natas11(1)](images/natas11(1).png)
+
+Writeups for the level 11 to 12
+
+![natas11(2)](images/natas11(2).png)
+
+---
